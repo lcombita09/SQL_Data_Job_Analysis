@@ -8,7 +8,7 @@ Further exploration into job roles shows that Data Analyst positions are the mos
 
 For me, as an aspiring data scientist/engineer/analyst, this project is not just about understanding current market trends but also about pinpointing where the opportunities lie and what skills are most valued. Through this analysis, I aim to align my learning path with the demands of the market, enhancing my prospects and preparing myself to thrive in a competitive job environment.
 
-![Total Job postings and salaries per role](images\job_postings_and_salaries.png)
+![Total Job postings and salaries per role](images/job_postings_and_salaries.png)
 *Bargraph displaying the total number of job postings and the average yearly salary by job title*
 
 SQL Queries: [data_jobs_project](/data_jobs_project/)
@@ -158,7 +158,7 @@ Here is the breakdown of countries with more demand for data professionals:
 
 France leads with significant demand for Data Analysts, Engineers, and Scientists, highlighting the country's thriving tech sector. Considering learning French could provide a competitive edge in the European job market.
 
-![Top 10 European Countries with more demand for data professionals](images\jobs_by_country.png)
+![Top 10 European Countries with more demand for data professionals](images/jobs_by_country.png)
 
 *Bargraph of Top 10 Countries with most job postings in Europe*
 
@@ -203,7 +203,7 @@ Here is the breakdown of top skills required for the main data roles:
 - The findings emphasize the importance of mastering Python and SQL across all major data roles, suggesting these should be the initial focus for anyone aiming to enter the data science field in Europe. 
 
 
-![Top Skills Per Data Role](images\top_skills_by_role.png)
+![Top Skills Per Data Role](images/top_skills_by_role.png)
 
 *Bar graph visualizing the 5 Top Skills by the three main data roles*
 
